@@ -19,7 +19,7 @@ Simple landing page for EQLZR - a Gas Prediction Marketplace for blockchain appl
 ## Quick Start
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/eqlzr-landing.git
+   git clone https://github.com/EQLZRHQ/EQLZR.git
    ```
 2. Open `index.html` in your browser or deploy to your preferred hosting service
 
